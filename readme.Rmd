@@ -3,7 +3,7 @@ title: "Unicorns on unicycles"
 output: github_document
 ---
 
-[![Last-changedate](https://img.shields.io/badge/last%20change-2018--03--11-yellowgreen.svg)](/commits/master) [![star this repo](http://githubbadges.com/star.svg?user=RMHogervorst&repo=unicorns_on_unicycles&style=flat)](https://github.com/RMHogervorst/unicorns_on_unicycles) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2018--03--11-yellowgreen.svg)](/commits/master) [![star this repo](http://githubbadges.com/star.svg?user=RMHogervorst&repo=unicorns_on_unicycles)](https://github.com/RMHogervorst/unicorns_on_unicycles) [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active) ![](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
 
 
 ## About
