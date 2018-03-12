@@ -4,8 +4,10 @@
 ## when you present this dataset as a genuine old timey dataset, it
 ## does not really work that well, with modern R code that produces the set.
 ## 
-## So maybe it was handed down through a time vortex by van Leeuwenhoek the time-traveler?
+## So maybe it was handed down through a time vortex by Antonie van Leeuwenhoek the time-traveler?
 ## 
+## This code is also cc-by-4.0. use remix and whatever you like.
+
 library(tidyverse)
 # ISOcodes package, contains groupings per country, but this is coded in a
 # string in a row.  
